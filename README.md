@@ -24,7 +24,7 @@ _Add type safe and validated server actions to your Next.js App Router project w
 
 ### Description
 
-📺 [YouTube Video]() for this repository.
+📺 [YouTube Video](https://youtu.be/ahB3DgUMs1A) for this repository.
 
 ---
 
